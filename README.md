@@ -22,3 +22,6 @@ Our pre-trained models are uploaded at https://polybox.ethz.ch/index.php/s/9dLB0
 4. ```residual_connections_mitb.py``` and ```residual_connections_ptb.py``` contain cnn with residual connections for the two datasets.
 5. ```rnn_simple_mit.py``` and ```rnn_simple_ptb.py``` contain simple rnn network models for the two datasets
 6. ```transfer_learning_option2.py``` contains code for transfering pre-trained model from mitbh dataset to ptb dataset
+
+### Project Report
+The project description and methodology can be found at ML4HC_project.pdf
