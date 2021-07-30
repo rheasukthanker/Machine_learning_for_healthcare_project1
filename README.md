@@ -1,6 +1,14 @@
 # Machine Learning for Healthcare (Project 1)
 
 Our pre-trained models are uploaded at https://polybox.ethz.ch/index.php/s/9dLB08VfdqrdEH0
+
+### Authors
+1. Rhea Sukthanker
+2. Rishabh Singh
+3. Rahul Bera
+
+
+
 ### Installing packages :
 ``` pip install -r requirements.txt ```
 
